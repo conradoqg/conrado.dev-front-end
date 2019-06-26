@@ -1,0 +1,170 @@
+- lang: en
+  introduction: Olá, sou Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">software engineer</a>, <a href="#passions" style="background-color:#EC9332;color:white;text-decoration:none">devops</a>, <a href="#passions" style="background-color:#3E8410;color:white;text-decoration:none">full-stack developer</a> e entusiasta tecnológico.
+  descriptionHeader: Seguidor ávido de tecnologia, eu ajudo empresas a criar soluções elegantes para problemas complexos sem deixar de manter o foco em sua visão e estratégia.
+  description: !markdown |
+    Na última década eu venho estudando, mapeando e entendendo negócios, processos, softwares e tecnologias. Me especializei em sistemas de informação através da liderança de equipes de desenvolvimento e criação de softwares para atender os segmentos: Varejo, CRM, Gestão de Serviços e Back-office. Eu participo repetidamente de projetos inovadores, P&D e empreendedorismo. Tenho conhecimento e habilidades para trabalhar com coordenação de equipes, engenharia de software, devops e tecnologias emergentes.
+    
+    Na maioria dos dias estou conectando pessoas, dando soluções, planejando e criando softwares, esteiras e produtos. No meu tempo livre gosto de estudar tecnologias, jogar, assistir seriados e ouvir música.
+    
+    Atualmente trabalho na TOTVS S.A. como coordenador de DevOps da linha de produto Protheus.
+  passions:
+    - title: Software Engineering
+      items:        
+        - Arquitetura de software
+        - Sistemas distribuidos
+        - Microserviços
+        - Processos de desenvolvimento
+        - Estratégias de teste        
+        - Bancos de dados
+        - Desempenho
+    - title: DevOps
+      items:
+        - Provedores de Serviço na Nuvem
+        - CI/CD
+        - Automatização
+        - Infra-estrutura como código
+        - Clusters de Software
+        - Estratégias de implantação        
+        - Operação
+        - Monitoramento
+    - title: Full-stack Development
+      items:
+        - React, Vue, Angular, ...
+        - Renderização no servidor
+        - Páginas estáticas
+        - Node, Java, .NET, ...
+        - Workers
+        - Streaming de dados
+        - Containers        
+  experiences:
+    - start: 2006-07-01
+      finish: 
+      company: TOTVS S.A.
+      position: Coordenador de DevOps
+      link: https://www.totvs.com.br
+      image: img/totvs.png
+      description: !markdown |
+        Entrei como estagiário e obtive dois prêmios no trabalho de conclusão do estágio. Continuei na manutenção dos módulos: CRM, Call Center e Gestão de Serviços, durante os 5 primeiros anos e gradativamente conquistei espaço até alcançar a liderança da equipe de inovação desses módulos e posteriormente a coordenação. Desde então, venho repensando, redesenhando e evoluindo nossos softwares com o apoio da equipe. Entre os maiores projetos, estão a criação do módulo de Gestão de Serviços e o redesenho completo do módulo CRM, projetos com mais de 15.000 horas cada um.
+    - start: 2016-07-01
+      finish: 2017-01-01
+      company: TOTVS Labs CA
+      position: Engenheiro de Software
+      link: http://www.totvslabs.com/
+      image: img/totvs-labs.jpg
+      description: !markdown |
+        Trabalhando como engenheiro de software, estou participando de um programa de exploracão na TOTVS Labs CA; aqui eu tenho a oportunidade de experimentar novas tecnologias e apoiar o time a extender as funcionalidades de seu produto principal a [Carol](https://www.carol.com/). Estou também criando novos componentes que irão ajudar a sede em São Paulo - Brasil. Você pode acompanhar meu canal e ver minhas experiências durante esse programa de exploração. https://goo.gl/lClWMs
+    - start: 2001-01-01
+      finish: 2006-06-01
+      company: Fastware Sistemas
+      position: Analista de Sistemas      
+      image: img/fastware.jpg
+      description: !markdown |
+        Como aprendiz participei de todo o processo de desenvolvimento e entrega de softwares para drogarias e farmácias, desde a arquitetura até a implantação. Iniciei na programação apoiando o desenvolvimento do framework da interface do software, em seguida na criação do portal do cliente e por fim na atualização tecnológica e conceitual do produto.
+    - start: 2003-03-01
+      finish: 2006-04-01
+      company: X-Dream Lan House
+      position: Empreendedor      
+      image: img/x-dream.jpg
+      description: !markdown |
+        Ajudei o planejamento e execução do empreendimento do negócio, desde a construção até o encerramento. Passei a maior parte dos dias, configurando máquinas, servidores, organizando eventos e campeonatos. Foi meu primeiro contato com processos de negócios, otimização de recursos e dos desafios da gestão de negócio e pessoas.
+    - start: 2003-07-01
+      finish: 2007-07-01
+      company: Faculdade Impacta de Tecnologia
+      position: Bacharelado Sistema de Informação
+      link: https://www.impacta.edu.br/
+      image: img/impacta.jpg
+      description: !markdown |
+        Faculdade referência na área de tecnologia em São Paulo, na Impacta me formei bacharel em sistema de informação. 
+    - start: 1988-01-01
+      finish: 2002-12-01
+      company: Colégio João XXIII
+      position: Ensino Médio e Fundamental
+      link: https://www.colegiojoao23.com.br/
+      image: img/joaoxxiii.jpg
+      description: !markdown |
+        Passei minha infância e adolescência nesse magnífico colégio, desde o ensino primário, ensino fundamental até o ensino médio.
+- lang: pt-BR
+  introduction: Olá, sou Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">software engineer</a>, <a href="#passions" style="background-color:#EC9332;color:white;text-decoration:none">devops</a>, <a href="#passions" style="background-color:#3E8410;color:white;text-decoration:none">full-stack developer</a> e entusiasta tecnológico.
+  descriptionHeader: Seguidor ávido de tecnologia, eu ajudo empresas a criar soluções elegantes para problemas complexos sem deixar de manter o foco em sua visão e estratégia.
+  description: !markdown |
+    Na última década eu venho estudando, mapeando e entendendo negócios, processos, softwares e tecnologias. Me especializei em sistemas de informação através da liderança de equipes de desenvolvimento e criação de softwares para atender os segmentos: Varejo, CRM, Gestão de Serviços e Back-office. Eu participo repetidamente de projetos inovadores, P&D e empreendedorismo. Tenho conhecimento e habilidades para trabalhar com coordenação de equipes, engenharia de software, devops e tecnologias emergentes.
+    
+    Na maioria dos dias estou conectando pessoas, dando soluções, planejando e criando softwares, esteiras e produtos. No meu tempo livre gosto de estudar tecnologias, jogar, assistir seriados e ouvir música.
+    
+    Atualmente trabalho na TOTVS S.A. como coordenador de DevOps da linha de produto Protheus.
+  passions:
+    - title: Software Engineering
+      items:        
+        - Arquitetura de software
+        - Sistemas distribuidos
+        - Microserviços
+        - Processos de desenvolvimento
+        - Estratégias de teste        
+        - Bancos de dados
+        - Desempenho
+    - title: DevOps
+      items:
+        - Provedores de Serviço na Nuvem
+        - CI/CD
+        - Automatização
+        - Infra-estrutura como código
+        - Clusters de Software
+        - Estratégias de implantação        
+        - Operação
+        - Monitoramento
+    - title: Full-stack Development
+      items:
+        - React, Vue, Angular, ...
+        - Renderização no servidor
+        - Páginas estáticas
+        - Node, Java, .NET, ...
+        - Workers
+        - Streaming de dados
+        - Containers        
+  experiences:
+    - start: 2006-07-01
+      finish: 
+      company: TOTVS S.A.
+      position: Coordenador de DevOps
+      link: https://www.totvs.com.br
+      image: img/totvs.png
+      description: !markdown |
+        Entrei como estagiário e obtive dois prêmios no trabalho de conclusão do estágio. Continuei na manutenção dos módulos: CRM, Call Center e Gestão de Serviços, durante os 5 primeiros anos e gradativamente conquistei espaço até alcançar a liderança da equipe de inovação desses módulos e posteriormente a coordenação. Desde então, venho repensando, redesenhando e evoluindo nossos softwares com o apoio da equipe. Entre os maiores projetos, estão a criação do módulo de Gestão de Serviços e o redesenho completo do módulo CRM, projetos com mais de 15.000 horas cada um.
+    - start: 2016-07-01
+      finish: 2017-01-01
+      company: TOTVS Labs CA
+      position: Engenheiro de Software
+      link: http://www.totvslabs.com/
+      image: img/totvs-labs.jpg
+      description: !markdown |
+        Trabalhando como engenheiro de software, estou participando de um programa de exploracão na TOTVS Labs CA; aqui eu tenho a oportunidade de experimentar novas tecnologias e apoiar o time a extender as funcionalidades de seu produto principal a [Carol](https://www.carol.com/). Estou também criando novos componentes que irão ajudar a sede em São Paulo - Brasil. Você pode acompanhar meu canal e ver minhas experiências durante esse programa de exploração. https://goo.gl/lClWMs
+    - start: 2001-01-01
+      finish: 2006-06-01
+      company: Fastware Sistemas
+      position: Analista de Sistemas      
+      image: img/fastware.jpg
+      description: !markdown |
+        Como aprendiz participei de todo o processo de desenvolvimento e entrega de softwares para drogarias e farmácias, desde a arquitetura até a implantação. Iniciei na programação apoiando o desenvolvimento do framework da interface do software, em seguida na criação do portal do cliente e por fim na atualização tecnológica e conceitual do produto.
+    - start: 2003-03-01
+      finish: 2006-04-01
+      company: X-Dream Lan House
+      position: Empreendedor      
+      image: img/x-dream.jpg
+      description: !markdown |
+        Ajudei o planejamento e execução do empreendimento do negócio, desde a construção até o encerramento. Passei a maior parte dos dias, configurando máquinas, servidores, organizando eventos e campeonatos. Foi meu primeiro contato com processos de negócios, otimização de recursos e dos desafios da gestão de negócio e pessoas.
+    - start: 2003-07-01
+      finish: 2007-07-01
+      company: Faculdade Impacta de Tecnologia
+      position: Bacharelado Sistema de Informação
+      link: https://www.impacta.edu.br/
+      image: img/impacta.jpg
+      description: !markdown |
+        Faculdade referência na área de tecnologia em São Paulo, na Impacta me formei bacharel em sistema de informação. 
+    - start: 1988-01-01
+      finish: 2002-12-01
+      company: Colégio João XXIII
+      position: Ensino Médio e Fundamental
+      link: https://www.colegiojoao23.com.br/
+      image: img/joaoxxiii.jpg
+      description: !markdown |
+        Passei minha infância e adolescência nesse magnífico colégio, desde o ensino primário, ensino fundamental até o ensino médio.
