@@ -71,7 +71,7 @@ class Index extends React.Component {
 
         return (
             <React.Fragment>
-                <Container maxWidth="md" style={{ paddingTop: "100px" }}>
+                <Container maxWidth="md" style={{ paddingTop: "50px" }}>
                     <Paper>
                         <Grid container className={classes.root}>
                             <Grid item xs={12} sm>
@@ -204,7 +204,7 @@ class Index extends React.Component {
                                         <Hidden mdUp>
                                             <Grid item style={{ padding: "10px", textAlign: "center" }}>
                                                 <Typography variant="subtitle2">
-                                                    {experience.finish !== null ? experience.finish : null} - {experience.start}
+                                                    {experience.finish !== null ? experience.finish : <FormattedMessage id="current" />} - {experience.start}
                                                 </Typography>
                                             </Grid>
                                         </Hidden>
