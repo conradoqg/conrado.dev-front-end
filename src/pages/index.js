@@ -214,7 +214,7 @@ class Index extends React.Component {
                                         </Grid>
                                         <Grid item>
                                             <Typography variant="subtitle2">
-                                                {experience.position} <FormattedMessage id="on" /> <a href={experience.link} target="_new" rel="noopener">{experience.company}</a>
+                                                {experience.position} <FormattedMessage id="at" /> <a href={experience.link} target="_new" rel="noopener">{experience.company}</a>
                                             </Typography>
                                         </Grid>
                                         <Grid item xs>

@@ -1,88 +1,92 @@
 - lang: en
-  introduction: Olá, sou Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">software engineer</a>, <a href="#passions" style="background-color:#EC9332;color:white;text-decoration:none">devops</a>, <a href="#passions" style="background-color:#3E8410;color:white;text-decoration:none">full-stack developer</a> e entusiasta tecnológico.
-  descriptionHeader: Seguidor ávido de tecnologia, eu ajudo empresas a criar soluções elegantes para problemas complexos sem deixar de manter o foco em sua visão e estratégia.
+  introduction: Hello, I'm Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">software engineer</a>, <a href="#passions" style="background-color:#EC9332;color:white;text-decoration:none">devops</a>, <a href="#passions" style="background-color:#3E8410;color:white;text-decoration:none">full-stack developer</a> and a technology enthusiast.
+  descriptionHeader: Avid follower of technology, I have been helping companies to create elegant solutions to complex problems while keeping the focus on their vision and strategy.
   description: !markdown |
-    Na última década eu venho estudando, mapeando e entendendo negócios, processos, softwares e tecnologias. Me especializei em sistemas de informação através da liderança de equipes de desenvolvimento e criação de softwares para atender os segmentos: Varejo, CRM, Gestão de Serviços e Back-office. Eu participo repetidamente de projetos inovadores, P&D e empreendedorismo. Tenho conhecimento e habilidades para trabalhar com coordenação de equipes, engenharia de software, devops e tecnologias emergentes.
+    In the last decade, I have been studying, mapping and understanding business processes, software and technologies. I'm specialized in information systems, team leadership and creation of software to meet the industries: Retail, CRM, Service Management and Back-office. I repeatedly participate on innovative projects, R & D and entrepreneurship. I have knowledge and skills to work with team leadership, software engineering, devops and emerging technologies.    
     
-    Na maioria dos dias estou conectando pessoas, dando soluções, planejando e criando softwares, esteiras e produtos. No meu tempo livre gosto de estudar tecnologias, jogar, assistir seriados e ouvir música.
+    Most days I'm connecting people, providing solutions, planning projects and creating software, pipelines and products. In my free time, I like to study new technologies, play games, watch sitcoms and listen to music.    
     
-    Atualmente trabalho na TOTVS S.A. como coordenador de DevOps da linha de produto Protheus.
+    I currently work at TOTVS S.A. as a lead DevOps engineer of the Protheus product.    
   passions:
     - title: Software Engineering
       items:        
-        - Arquitetura de software
-        - Sistemas distribuidos
-        - Microserviços
-        - Processos de desenvolvimento
-        - Estratégias de teste        
-        - Bancos de dados
-        - Desempenho
+        - Software architecture
+        - Distributed systems
+        - Micro-services
+        - Development processes
+        - Test strategies
+        - Databases
+        - Performance
     - title: DevOps
       items:
-        - Provedores de Serviço na Nuvem
+        - Cloud Providers
         - CI/CD
-        - Automatização
-        - Infra-estrutura como código
-        - Clusters de Software
-        - Estratégias de implantação        
-        - Operação
-        - Monitoramento
+        - Task automation
+        - Infra-structure as code
+        - Software clustering
+        - Deployment strategies
+        - Operation
+        - Monitoring
     - title: Full-stack Development
       items:
         - React, Vue, Angular, ...
-        - Renderização no servidor
-        - Páginas estáticas
+        - Server-side rendering
+        - Static pages
         - Node, Java, .NET, ...
         - Workers
-        - Streaming de dados
+        - Data streaming
         - Containers        
   experiences:
     - start: 2006-07-01
       finish: 
       company: TOTVS S.A.
-      position: Coordenador de DevOps
-      link: https://www.totvs.com.br
+      position: Lead DevOps Engineer
+      link: https://www.totvs.com/
       image: img/totvs.png
       description: !markdown |
-        Entrei como estagiário e obtive dois prêmios no trabalho de conclusão do estágio. Continuei na manutenção dos módulos: CRM, Call Center e Gestão de Serviços, durante os 5 primeiros anos e gradativamente conquistei espaço até alcançar a liderança da equipe de inovação desses módulos e posteriormente a coordenação. Desde então, venho repensando, redesenhando e evoluindo nossos softwares com o apoio da equipe. Entre os maiores projetos, estão a criação do módulo de Gestão de Serviços e o redesenho completo do módulo CRM, projetos com mais de 15.000 horas cada um.
+        I joined as an intern and had two awards because of my term paper of internship. I continued in the maintenance of modules: CRM, Call Center and Service Management, during the first 5 years and gradually conquered space to achieve leadership of the innovation team of those modules and further the team coordination. Since then, I have been rethinking, redesigning and evolving our software with the help of the team. Among the largest projects, are the creation of the Service Management module and the complete redesign of the CRM module, both projects with more than 15,000 hours each.
+
+        Throughout my career I went through the positions of system analyst, software engineer, product owner, receiving awards like **"You make the difference"**, **"Build and Show it"**, and **"2018 MVP"** .         
+
+        Currently, I lead the DevOps team of the Protheus product and I participate in R & D initiatives of new processes, products, and technologies.        
     - start: 2016-07-01
       finish: 2017-01-01
       company: TOTVS Labs CA
-      position: Engenheiro de Software
+      position: Software Engineer
       link: http://www.totvslabs.com/
       image: img/totvs-labs.jpg
       description: !markdown |
-        Trabalhando como engenheiro de software, estou participando de um programa de exploracão na TOTVS Labs CA; aqui eu tenho a oportunidade de experimentar novas tecnologias e apoiar o time a extender as funcionalidades de seu produto principal a [Carol](https://www.carol.com/). Estou também criando novos componentes que irão ajudar a sede em São Paulo - Brasil. Você pode acompanhar meu canal e ver minhas experiências durante esse programa de exploração. https://goo.gl/lClWMs
+        Working as a software engineer, I participed in an explorer program at TOTVS Labs CA; here I had the opportunity to try new technologies and support the team to extend the features of their main product [Carol](https://www.carol.com/). I'm also created new components and concepts that helped our headquarter at São Paulo - Brazil. If you understand Portuguese, you can follow my channel to see my experiences during this exploration. https://goo.gl/lClWMs        
     - start: 2001-01-01
       finish: 2006-06-01
-      company: Fastware Sistemas
-      position: Analista de Sistemas      
+      company: Fastware Systems
+      position: Systems Analyst    
       image: img/fastware.jpg
       description: !markdown |
-        Como aprendiz participei de todo o processo de desenvolvimento e entrega de softwares para drogarias e farmácias, desde a arquitetura até a implantação. Iniciei na programação apoiando o desenvolvimento do framework da interface do software, em seguida na criação do portal do cliente e por fim na atualização tecnológica e conceitual do produto.
+        As an apprentice, I participated in all the development and delivery of software for drug stores and pharmacies, from architecture to deployment. I started developing the software interface framework, the customer portal and finally helped to update the product technology and concept.
     - start: 2003-03-01
       finish: 2006-04-01
       company: X-Dream Lan House
-      position: Empreendedor      
+      position: Entrepreneur      
       image: img/x-dream.jpg
       description: !markdown |
-        Ajudei o planejamento e execução do empreendimento do negócio, desde a construção até o encerramento. Passei a maior parte dos dias, configurando máquinas, servidores, organizando eventos e campeonatos. Foi meu primeiro contato com processos de negócios, otimização de recursos e dos desafios da gestão de negócio e pessoas.
+        I helped with the planning and execution of business development, from construction to closure. I spent most of the day, setting machines up, configuring servers, organizing events and championships. It was my first contact with business processes, optimization of resources and the challenges of business and people management.
     - start: 2003-07-01
       finish: 2007-07-01
       company: Faculdade Impacta de Tecnologia
-      position: Bacharelado Sistema de Informação
+      position: Bachelor of Information System
       link: https://www.impacta.edu.br/
       image: img/impacta.jpg
       description: !markdown |
-        Faculdade referência na área de tecnologia em São Paulo, na Impacta me formei bacharel em sistema de informação. 
+        University reference in technology in São Paulo - Brazil, at Impacta I graduated as a Bachelor of Information system.
     - start: 1988-01-01
       finish: 2002-12-01
       company: Colégio João XXIII
-      position: Ensino Médio e Fundamental
+      position: Middle and Elementary School
       link: https://www.colegiojoao23.com.br/
       image: img/joaoxxiii.jpg
       description: !markdown |
-        Passei minha infância e adolescência nesse magnífico colégio, desde o ensino primário, ensino fundamental até o ensino médio.
+        I spent my childhood and adolescence in this great school, from the primary level, elementary school through high school.
 - lang: pt-BR
   introduction: Olá, sou Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">software engineer</a>, <a href="#passions" style="background-color:#EC9332;color:white;text-decoration:none">devops</a>, <a href="#passions" style="background-color:#3E8410;color:white;text-decoration:none">full-stack developer</a> e entusiasta tecnológico.
   descriptionHeader: Seguidor ávido de tecnologia, eu ajudo empresas a criar soluções elegantes para problemas complexos sem deixar de manter o foco em sua visão e estratégia.
@@ -91,7 +95,7 @@
     
     Na maioria dos dias estou conectando pessoas, dando soluções, planejando e criando softwares, esteiras e produtos. No meu tempo livre gosto de estudar tecnologias, jogar, assistir seriados e ouvir música.
     
-    Atualmente trabalho na TOTVS S.A. como coordenador de DevOps da linha de produto Protheus.
+    Atualmente trabalho na TOTVS S.A. como coordenador de DevOps da engenharia do produto Protheus.
   passions:
     - title: Software Engineering
       items:        
@@ -106,9 +110,9 @@
       items:
         - Provedores de Serviço na Nuvem
         - CI/CD
-        - Automatização
+        - Automatização de tarefas
         - Infra-estrutura como código
-        - Clusters de Software
+        - Clusters de software
         - Estratégias de implantação        
         - Operação
         - Monitoramento
@@ -120,7 +124,7 @@
         - Node, Java, .NET, ...
         - Workers
         - Streaming de dados
-        - Containers        
+        - Contêiners        
   experiences:
     - start: 2006-07-01
       finish: 
@@ -129,7 +133,11 @@
       link: https://www.totvs.com.br
       image: img/totvs.png
       description: !markdown |
-        Entrei como estagiário e obtive dois prêmios no trabalho de conclusão do estágio. Continuei na manutenção dos módulos: CRM, Call Center e Gestão de Serviços, durante os 5 primeiros anos e gradativamente conquistei espaço até alcançar a liderança da equipe de inovação desses módulos e posteriormente a coordenação. Desde então, venho repensando, redesenhando e evoluindo nossos softwares com o apoio da equipe. Entre os maiores projetos, estão a criação do módulo de Gestão de Serviços e o redesenho completo do módulo CRM, projetos com mais de 15.000 horas cada um.
+        Entrei como estagiário e obtive dois prêmios no trabalho de conclusão do estágio. Continuei na manutenção dos módulos: CRM, Call Center e Gestão de Serviços, durante os 5 primeiros anos e gradativamente conquistei espaço até alcançar a liderança da equipe de inovação desses módulos e posteriormente a coordenação. Desde então, venho repensando, redesenhando e evoluindo nossos softwares com o apoio da equipe. Entre os maiores projetos, estão a criação do módulo de Gestão de Serviços e o redesenho completo do módulo CRM, projetos com mais de 15.000 horas cada um. 
+        
+        Durante a minha carreira passei pelas posições de analista de sistemas, engenheiro de software e gerente de produto, recebendo diversos reconhecimentos, incluíndo **"Você faz a Diferença"**, **"Realize e Mostre"** e **"Destaque de 2018"** com o recebimento de ILP (Investimento de Longo Prazo).
+
+        Atualmente coordeno a equipe de DevOps da engenharia do produto Protheus e participo de iniciativas de P&D de novos processos, produtos e tecnologias.
     - start: 2016-07-01
       finish: 2017-01-01
       company: TOTVS Labs CA
@@ -137,7 +145,7 @@
       link: http://www.totvslabs.com/
       image: img/totvs-labs.jpg
       description: !markdown |
-        Trabalhando como engenheiro de software, estou participando de um programa de exploracão na TOTVS Labs CA; aqui eu tenho a oportunidade de experimentar novas tecnologias e apoiar o time a extender as funcionalidades de seu produto principal a [Carol](https://www.carol.com/). Estou também criando novos componentes que irão ajudar a sede em São Paulo - Brasil. Você pode acompanhar meu canal e ver minhas experiências durante esse programa de exploração. https://goo.gl/lClWMs
+        Trabalhei como engenheiro de software, e participei de um programa de exploracão na TOTVS Labs CA; lá tive a oportunidade de experimentar novas tecnologias e apoiar o time a estender as funcionalidades de seu produto principal a [Carol](https://www.carol.com/). Criei também novos componentes que irão ajudar a sede em São Paulo - Brasil. Você pode acompanhar meu canal e ver minhas experiências durante esse programa de exploração. https://goo.gl/lClWMs
     - start: 2001-01-01
       finish: 2006-06-01
       company: Fastware Sistemas
