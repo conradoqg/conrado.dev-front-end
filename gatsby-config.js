@@ -27,8 +27,7 @@ module.exports = {
         // option to redirect to `/ko` when connecting `/`
         redirect: true,
       },
-    },    
-    'gatsby-plugin-top-layout',
+    },        
     {
       resolve: 'gatsby-plugin-material-ui',
       // If you want to use styled components you should change the injection order.
@@ -45,6 +44,6 @@ module.exports = {
     `gatsby-transformer-sharp`, 
   ],
   siteMetadata: {
-    title: 'My page',
+    title: 'Conrado Quilles Gomes',
   },
 };

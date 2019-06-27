@@ -20,6 +20,7 @@ import Linkedin from 'mdi-material-ui/Linkedin';
 import withWidth, { isWidthUp } from '@material-ui/core/withWidth';
 import { injectIntl, FormattedMessage } from "gatsby-plugin-intl"
 import { withStyles } from '@material-ui/core/styles';
+import TopLayout from '../TopLayout';
 
 const styles = theme => ({
     root: {
@@ -69,8 +70,8 @@ class Index extends React.Component {
         const { avatarImage, intlYaml } = data;
         const dataIntl = intlYaml;
 
-        return (
-            <React.Fragment>
+        return (            
+            <TopLayout data={data}>
                 <Container maxWidth="md" style={{ paddingTop: "50px" }}>
                     <Paper>
                         <Grid container className={classes.root}>
@@ -249,7 +250,7 @@ class Index extends React.Component {
                     </Grid>
                 </Container>
 
-            </React.Fragment>
+            </TopLayout>
         );
     }
 }
@@ -258,6 +259,12 @@ export default withWidth()(withStyles(styles)(injectIntl(Index)))
 
 export const pageQuery = graphql`
     query($language: String!) {
+        site {
+            siteMetadata {
+                title
+            }
+        }  
+
         avatarImage: allImageSharp {
             edges {
                 node {
