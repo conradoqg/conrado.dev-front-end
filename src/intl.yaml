@@ -1,12 +1,14 @@
 - lang: en
-  introduction: Hello, I'm Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">software engineer</a>, <a href="#passions" style="background-color:#EC9332;color:white;text-decoration:none">devops</a>, <a href="#passions" style="background-color:#3E8410;color:white;text-decoration:none">full-stack developer</a> and a technology enthusiast.
-  descriptionHeader: Avid follower of technology, I have been helping companies to create elegant solutions to complex problems while keeping the focus on their vision and strategy.
+  introduction: |
+    Hi, I'm Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">software architect</a>, <a href="# passions" style="background-color:#EC9332;color:white;text-decoration:none">full-stack developer</a>, <a href="#passions" style="background-color:#3E8410; color:white;text-decoration:none">SRE</a> and technology enthusiast.
+  descriptionHeader: |
+    Passionate about technology, I help companies create elegant solutions to complex problems while focusing on their strategic vision.    
   description: !markdown |
-    In the last decade, I have been studying, mapping and understanding business processes, software and technologies. I'm specialized in information systems, team leadership and creation of software to meet the industries: Retail, CRM, Service Management and Back-office. I repeatedly participate on innovative projects, R & D and entrepreneurship. I have knowledge and skills to work with team leadership, software engineering, devops and emerging technologies.    
+    For the last decade I have been studying, mapping, and understanding business, processes, software, and technologies. I specialized in information systems by leading software and platform development teams that serves the business teams. I participate recurrently in innovative projects, R&D, and entrepreneurship. I have the knowledge and skills to work with team management, software architecture, full-stack development, devops, and emerging technologies.
     
-    Most days I'm connecting people, providing solutions, planning projects and creating software, pipelines and products. In my free time, I like to study new technologies, play games, watch sitcoms and listen to music.    
+    Most of the day I'm connecting people, giving solutions, planning, and creating software, pipelines, platforms, and products. In my free time, I like to 📚 study new technologies and 🎮 play.
     
-    I currently work at TOTVS S.A. as a lead DevOps engineer of the Protheus product.    
+    I currently work at TOTVS S.A. as Software Platform Manager and Chief Architect.   
   passions:
     - title: Software Engineering
       items:        
@@ -37,40 +39,210 @@
         - Data streaming
         - Containers        
   experiences:
-    - start: 2006-07-01
+    - start: 2019-10-01
       finish: 
       company: TOTVS S.A.
-      position: Lead DevOps Engineer
-      link: https://www.totvs.com/
-      image: img/totvs.png
+      position: Software Platform Manager and Chief Architect
+      link: https://www.totvs.com.br
+      image: img/totvs-3.png
       description: !markdown |
-        I joined as an intern and had two awards because of my term paper of internship. I continued in the maintenance of modules: CRM, Call Center and Service Management, during the first 5 years and gradually conquered space to achieve leadership of the innovation team of those modules and further the team coordination. Since then, I have been rethinking, redesigning and evolving our software with the help of the team. Among the largest projects, are the creation of the Service Management module and the complete redesign of the CRM module, both projects with more than 15,000 hours each.
+        I'm invited by the Technology and Platforms VP to assembly a team of architects, developers, and SREs, to establish an enterprise software architecture team and a cloud-native software platform team with nine experts.        
 
-        Throughout my career I went through the positions of system analyst, software engineer, product owner, receiving awards like **"You make the difference"**, **"Build and Show it"**, and **"2018 MVP"** .         
+        Achievements:
+          - Set up a team of multidisciplinary experts to create a cloud-native software development platform;
+          - I organized and coordinated the on-premises and cloud-native architecture committees, with around 200 participants and biweekly meetings, to unify architectural fronts at TOTVS and convergence of common services;
+          - 🎯 With the team, we idealized the new platform, technically structured and implemented it, with more than 200 people involved currently, 17 teams having more than 1000 services, in 5 clusters and multi-cloud, all structured on the concepts of cloud-native, being scalable, highly available and well componentized;
+          - We wrote over 20 RFCs with architecture definitions and over 800 pages of technical software architecture documentation to support teams in the development of cloud-native applications.
+          - 🏆 In 2020 I received the ILP, a long-term incentive program, given to only 3% of the company, for my deliveries and history in the company.
+          - Leveraged my knowledge in Prometheus, CertManager, Azure DevOps, and everything related to cloud-native;
+        
+        Side projects:
+          - React, Node, PostgreSQL and Kubernetes ([MeAjudaFI 🌎](https://meajudafi.com.br/), [financial-tools 🌎]([https://financial-tools.conrado.dev/]), [ meajudafi-stack](https://github.com/conradoqg/meajudafi-stack));
+          - Penetration Testing ([HackTheBox 🌎](https://app.hackthebox.eu/profile/534774), [TryHackMe 🌎](https://tryhackme.com/p/conradoqg));
+          - In-depth studies on Kubernetes and related services through online courses and tool documentation;
+    - start: 2018-01-01
+      finish: 2019-10-01
+      company: TOTVS S.A.
+      position: DevOps Team Coordinator
+      link: https://www.totvs.com.br
+      image: img/totvs-3.png
+      description: !markdown |
+        Upon returning to Brazil, I received the opportunity to coordinate a team of infrastructure engineers, developers, and devops engineers and set up a new team of SREs, with eleven people in total.
 
-        Currently, I lead the DevOps team of the Protheus product and I participate in R & D initiatives of new processes, products, and technologies.        
+        Achievements:
+          - I set up processes, development support tools, and pipelines for TOTVS's on-premises software, bringing technologies such as containers, container orchestration, CI/CD pipelines, infrastructure-as-code, automation, and observability processes;
+          - 🎯 Actively participated in the transformation of the company's main software to a cloud-enabled model, from conception with the UX team, to the final delivery. At that time, being the largest Kubernetes cluster in Latin America on AWS;
+          - 🏆 In 2019 I received the ILP, a long-term incentive program, given to only 3% of the company, for my deliveries and history in the company.
+          - Leveraged my knowledge in Docker, Docker Swarm, Kubernetes, Jenkins, Gitea, InfluxDB, Grafana, Nginx, Drone, Caddy, Go, DevOps culture, etc;
+        
+        Side projects:
+          - Experiments and personal use of AWS services;
+          - 📖 Deepened my knowledge in distributed software, microservices, and serverless through reading several books;
+          - Docker Stack ([dk-server](https://github.com/conradoqg/dk-server));
+          - Artifact Management ([arte-server](https://github.com/conradoqg/arte-server), [arte-cli](https://github.com/conradoqg/arte-cli), [goglobls] (https://github.com/conradoqg/goglobls));
+          - Firebase, Google Functions, React ([pergunte.app 🔒](https://github.com/conradoqg/pergunte.app))
     - start: 2016-07-01
-      finish: 2017-01-01
-      company: TOTVS Labs CA
-      position: Software Engineer
+      finish: 2018-01-01
+      company: TOTVS Labs
+      position: Back-end Expert
       link: http://www.totvslabs.com/
       image: img/totvs-labs.jpg
       description: !markdown |
-        Working as a software engineer, I participed in an explorer program at TOTVS Labs CA; here I had the opportunity to try new technologies and support the team to extend the features of their main product [Carol](https://www.carol.com/). I'm also created new components and concepts that helped our headquarter at São Paulo - Brazil. If you understand Portuguese, you can follow my channel to see my experiences during this exploration. https://goo.gl/lClWMs        
+        To act more focused on the technical area, and as a software engineer instead of a product manager, I moved to California and worked at the TOTVS branch in the USA.
+
+        Achievements:
+          - 🎯 Created new features in the back-end of the product, Carol, improving its integration with TOTVS products;
+          - Experimented with technologies such as blockchain and NLP;
+          - I studied Data Science, its tools, and techniques;
+          - I studied the DevOps philosophy and worked together with the SRE team;
+          - Leveraged my knowledge in Java, Elasticsearch, Couchbase;
+
+        Side projects:
+          - Blockchain and cryptocurrencies ([naivecoin 🥇](https://github.com/conradoqg/naivecoin), [study-dapps](https://github.com/conradoqg/study-dapps), [study-cryptobot 🔒] (https://github.com/conradoqg/study-cryptobot));
+          - Deepened my knowledge in DevOps, Distributed Software and Microservices by reading several books;
+          - Algorithms ([study-dsa](https://github.com/conradoqg/study-dsa), [smart-organisms](https://github.com/conradoqg/smart-organisms), [HackerRank 🌎]( https://www.hackerrank.com/conradoqg));
+          - Data Science ([study-datascience](https://github.com/conradoqg/study-datascience));
+          - Javascript ([snake 🌎](https://rawgit.com/conradoqg/snake/master/index.html), [fastenglish 🌎](https://fastenglish.conradoqg.eti.br/));
+          - Published articles ([Genetic algorithm, A* and rotated objects](https://medium.com/hackernoon/genetic-algorithm-a-and-rotated-objects-ca19668c780d), [A cryptocurrency implementation in less than 1500 lines of code](https://medium.com/hackernoon/a-cryptocurrency-implementation-in-less-than-1500-lines-of-code-d3812bedb25c), [Beginning machine learning by a software engineer in a hurry](https://medium.com/totvslabs/beginning-machine-learning-by-a-software-engineer-in-a-hurry-ad58412145b8))
+          - TOEFL iBT certificate;
+          - TOEFL iBT certificate;
+    - start: 2014-07-01
+      finish: 2016-07-01
+      company: TOTVS S.A.
+      position: Product Coordinator
+      link: https://www.totvs.com.br
+      image: img/totvs-2.png
+      description: !markdown |
+        I became responsible for the Billing, Call Center, CRM, and Legal products leading a team of twenty-four people and managing the roadmap, backlog, external demands, people, and projects.
+
+        Achievements:
+          - Organized the resolution of backlog items, managed new features, projects, and made recurring technical meetings and visits to customers and sales representatives;
+          - Consolidated my skills in managing people, expectations, and risks;          
+          - Implemented the first team in my area that used an agile methodology and started to evangelize the concept within the company;
+          - 🎯 Executed benchmarks with other CRM software, culminating in the complete redesign and restructuring of TOTVS's CRM software. One and a half year project with a half team dedicated to this challenge;
+          - 🏆 Participated in competition with the participation of twenty teams, to present a project that was conceived and carried out by me, taking at the end the fourth place;
+
+        Sider projects:
+          - 📖 Deepened my knowledge in agile development by reading several books;
+          - Node.js, Electron ([Don't Lost The Save](https://github.com/conradoqg/dontlostthesave), [csgodash-server 🔒](https://github.com/conradoqg/csgodash-server) ), Ember ([iconexplorer 🌎](https://icon.conradoqg.eti.br/)), MongoDB;
+    - start: 2013-07-01
+      finish: 2014-07-01
+      company: TOTVS S.A.
+      position: Team Leader
+      link: https://www.totvs.com.br
+      image: img/totvs-2.png
+      description: !markdown |
+        I expanded my role in the team, acting as a people leader in the Billing, Call Center, and CRM modules, starting with seven people and ending with fifteen people.
+
+        Achievements:
+          - Organized the resolution of backlog items, managed new features, projects, and made recurring technical meetings and visits with customers and sales representatives;
+          - Evolved my skills in managing people, expectations, and risks;
+          - Started working on hiring and assembling development teams;
+          - I was more deeply involved with the software processes engineering team, creating documentation standards, requirements gathering processes, improvements in development processes, and optimization in software delivery;
+          - 🎯 Created a new module for the Protheus product called Service Management, leading the mapping of business rules, software architecture, requirements gathering with customers, planning, benchmarking, and project management;
+
+        Side projects:
+          - Requirements Management, obtaining a certificate;       
+    - start: 2012-10-01
+      finish: 2013-07-01
+      company: TOTVS S.A.
+      position: Senior Software Engineer
+      link: https://www.totvs.com.br
+      image: img/totvs-1.png
+      description: !markdown |
+        I consolidate my knowledge of the TOTVS software business rules and its proprietary technology and start acting as a technical/business team leader.
+
+        Achievements:
+          - Performed maintenance and created new highly complex features in Protheus's CRM, Call Center, and Legal software;
+          - Mapping of highly complex business rules;
+          - Supported the deployment team;
+          - I made frequent visits to customers, supporting them in solving problems and mapping new features;
+          - 🏆 Received the "Você Faz a Diferença" award for the results presented in the previous year;
+          - I did the intermediation with Framework and Technology teams in more complex problems;
+          - I worked on a team in the TOTVS technology VP to help them in the evolution of their development tools;
+          - 🎯 Participated in the TOTVS Up project, which aimed to restructure the entire process of contracting TOTVS software, from the initial talk to the software's deployment on the client. This project had a large investment by the company and resulted in a patent registration;
+          - Created a unit testing framework for TOTVS's proprietary language (ADVPL Unit Test Framework), which in two years would become the company's unit testing standard;
+          - Leveraged my knowledge in frameworks, requirements gathering, and software engineering processes;
+
+        Side projects:
+          - 📖 Deepened my knowledge in software engineering and development processes by reading several books;
+          - C++ ([TinyTrayMonitor 🌎](https://tinytraymonitor.conradoqg.eti.br/))
+    - start: 2011-03-01
+      finish: 2012-10-01
+      company: TOTVS S.A.
+      position: Junior Software Engineer
+      link: https://www.totvs.com.br
+      image: img/totvs-1.png
+      description: !markdown |
+        I expand my performance by partnering with other business, platform, and deployment teams, focusing on technological and structural improvements of the Protheus product.
+
+        Achievements:
+        - Performed maintenance and created new highly complex features in Protheus's CRM, Call Center, and Legal software;
+        - Evolve my knowledge of highly complex business rules;
+        - Visited customers to map new features, support the deployment team, and gathered requirements for new features;
+        - Troubleshoot technical issues with the Protheus platform team;
+        - 🏆 For two consecutive years, I received awards for innovation in the "i9" group, a group created to encourage the realization of innovative ideas within the company;
+        - Leveraged my knowledge of Oracle database, ADVPL-ASP, framework, and troubleshooting techniques;
+
+        Side projects:
+          - .NET, Java ([javarpctp 🔒](https://github.com/conradoqg/javarpctp));
+          - 📖 Produced my knowledge in componentization, design patterns, software engineering, and frameworks through reading several books;       
+    - start: 2007-07-01
+      finish: 2011-03-01
+      company: TOTVS S.A.
+      position: Developer
+      link: https://www.totvs.com.br
+      image: img/totvs-1.png
+      description: !markdown |
+        I evolve my knowledge related to the business rules of TOTVS software and get closer to the customer service team.
+        
+        Achievements:
+        - Performed medium and high complexity maintenance on Protheus Retail, CRM, Call Center software;
+        - Evolve my knowledge in low and medium complexity business rules;
+        - Created new features from customer requests;
+        - Helped the support team in understanding problems in business rules;
+        - 🏆 I took 2nd place in the "BOPS Zero" competition, which lasted three months and approximately 300 people involved, to zero the number of known errors in the system;
+        - Guided a new group of company interns in their internship completion projects;
+        - Leveraged my knowledge of DB2 database;
+
+        Side projects:
+          - I studied Javascript, ExtJS, PHP, MySQL ([iCamps 🔒](https://github.com/conradoqg/icamps)), ([QFinance 🔒](https://github.com/conradoqg/qfinance-app)) and C# ([WorkerTimer 🔒](https://github.com/conradoqg/workertime));
+          - 📖 I deepened my knowledge in Knowledge Management by reading the book [The Knowledge Management Toolkit](https://www.amazon.com/Knowledge-Management-Toolkit-Orchestrating-Platforms/dp/013009224X/)
+    - start: 2006-07-01
+      finish: 2007-07-01
+      company: TOTVS S.A.
+      position: Intern
+      link: https://www.totvs.com.br
+      image: img/totvs-1.png
+      description: !markdown |
+        I started at TOTVS as an intern, performing module maintenance and participating in the internship completion project.
+
+        Achievements:
+        - Organized and controlled the hardware peripherals used in development tests by creating auxiliary software;
+        - Performed low and medium complexity maintenance on Protheus's Retail, CRM, and Call Center software, using technologies such as SQL Server, ADVPL, and Windows;
+        - Mapped business rules of low and medium complexity of the Protheus product's CRM and Call Center modules;
+        - 🏆 Won 2 out of 4 possible awards ("Best project organization" and "Best project presentation") among 7 competing teams and more than 60 interns, by leading a team in the internship completion project;
+        - Leveraged my knowledge of SQL Server database, componentization, and ADVPL programming language;
+
+        Side projects:
+          - I studied compilers (grammar and parsers) through books and the implementation of a parser for ADVPL;
+          - Studied about source code documentation standards using tools like PHPDoc, JavascriptDoc;
+          - Implemented a source code documentation generation tool in ADVPL for ADVPL;
+          - Practiced file versioning with SVN and Git;  
     - start: 2001-01-01
       finish: 2006-06-01
       company: Fastware Systems
       position: Systems Analyst    
       image: img/fastware.jpg
       description: !markdown |
-        As an apprentice, I participated in all the development and delivery of software for drug stores and pharmacies, from architecture to deployment. I started developing the software interface framework, the customer portal and finally helped to update the product technology and concept.
+        As an apprentice, I participated in the development and delivery of software for drug stores and pharmacies, from architecture to deployment. I started developing the software interface framework, the customer portal and finally helped to update the product technology and concept.
     - start: 2003-03-01
       finish: 2006-04-01
       company: X-Dream Lan House
       position: Entrepreneur      
       image: img/x-dream.jpg
       description: !markdown |
-        I helped with the planning and execution of business development, from construction to closure. I spent most of the day, setting machines up, configuring servers, organizing events and championships. It was my first contact with business processes, optimization of resources and the challenges of business and people management.
+        I helped with the planning and execution of business development, from construction to it's closure. I spent most of the day, setting machines up, configuring servers, organizing events and championships. It was my first contact with business processes, optimization of resources and the challenges of business and people management.
     - start: 2003-07-01
       finish: 2007-07-01
       company: Faculdade Impacta de Tecnologia
@@ -88,20 +260,20 @@
       description: !markdown |
         I spent my childhood and adolescence in this great school, from the primary level, elementary school through high school.
 - lang: pt-BR
-  introduction: Olá, sou Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">software engineer</a>, <a href="#passions" style="background-color:#EC9332;color:white;text-decoration:none">devops</a>, <a href="#passions" style="background-color:#3E8410;color:white;text-decoration:none">full-stack developer</a> e entusiasta tecnológico.
-  descriptionHeader: Seguidor ávido de tecnologia, eu ajudo empresas a criar soluções elegantes para problemas complexos sem deixar de manter o foco em sua visão e estratégia.
+  introduction: Olá, sou Conrado Quilles Gomes, <a href="#passions" style="background-color:#C44129;color:white;text-decoration:none">arquiteto de software</a>, <a href="#passions" style="background-color:#EC9332;color:white;text-decoration:none">desenvolvedor full-stack</a>, <a href="#passions" style="background-color:#3E8410;color:white;text-decoration:none">SRE</a> e entusiasta tecnológico.
+  descriptionHeader: Apaixonado por tecnologia, eu ajudo empresas a criar soluções elegantes para problemas complexos sem deixar de manter o foco em sua visão estratégica.
   description: !markdown |
-    Na última década eu venho estudando, mapeando e entendendo negócios, processos, softwares e tecnologias. Me especializei em sistemas de informação através da liderança de equipes de desenvolvimento e criação de softwares para atender os segmentos: Varejo, CRM, Gestão de Serviços e Back-office. Eu participo repetidamente de projetos inovadores, P&D e empreendedorismo. Tenho conhecimento e habilidades para trabalhar com coordenação de equipes, engenharia de software, devops e tecnologias emergentes.
+    Na última década eu venho estudando, mapeando e entendendo negócios, processos, softwares e tecnologias. Me especializei em sistemas de informação através da liderança de equipes de desenvolvimento e criação de softwares e plataformas para atender os segmentos de negócios. Eu participo recorrentemente de projetos inovadores, P&D e empreendedorismo. Tenho conhecimento e habilidades para trabalhar com gestão de equipes, arquitetura de software, desenvolvimento full-stack, devops e tecnologias emergentes.
     
-    Na maioria dos dias estou conectando pessoas, dando soluções, planejando e criando softwares, esteiras e produtos. No meu tempo livre gosto de estudar tecnologias, jogar, assistir seriados e ouvir música.
+    Na maior parte do dia estou conectando pessoas, dando soluções, planejando e criando softwares, esteiras, plataformas e produtos. No meu tempo livre gosto de 📚 estudar novas tecnologias e 🎮 jogar.
     
-    Atualmente trabalho na TOTVS S.A. como coordenador de DevOps da engenharia do produto Protheus.
+    Atualmente trabalho na TOTVS S.A. como Gerente de Plataforma de Software e Arquiteto Chefe.
   passions:
     - title: Software Engineering
       items:        
         - Arquitetura de software
-        - Sistemas distribuidos
-        - Microserviços
+        - Sistemas distribuídos
+        - Microsserviços
         - Processos de desenvolvimento
         - Estratégias de teste        
         - Bancos de dados
@@ -111,7 +283,7 @@
         - Provedores de Serviço na Nuvem
         - CI/CD
         - Automatização de tarefas
-        - Infra-estrutura como código
+        - Infraestrutura como código
         - Clusters de software
         - Estratégias de implantação        
         - Operação
@@ -126,26 +298,196 @@
         - Streaming de dados
         - Contêiners        
   experiences:
-    - start: 2006-07-01
+    - start: 2019-10-01
       finish: 
+      company: TOTVS S.A.
+      position: Gerente de Plataforma de Software e Arquiteto Chefe
+      link: https://www.totvs.com.br
+      image: img/totvs-3.png
+      description: !markdown |
+        Sou convidado pela área de Tecnologia e Plataformas para a criação de duas área, a primeira de arquitetura corporativa da TOTVS e a segunda de uma nova plataforma de software cloud native e sou encubido de montar um time de especialistas de arquitetura, desenvolvimento e devops (9 especialistas).
+
+        Conquistas:
+          - Montei um time de especialistas, multi-disciplinar para a criação de uma plataforma de desenvolvimento de software cloud native;
+          - Organizo e coordeno os comitês de arquitetura on-premises e cloud native, com cerca de 200 participantes e reuniões quinzenais, com o objetivo de organizamos frentes unificadas de arquitetura na TOTVS e convergência de serviços comuns;
+          - 🎯 Junto com o time, idealizamos a nova plataforma, estruturamos tecnicamente e a implementamos, tendo atualmente mais de 200 pessoas envolvidas, sendo 17 times com mais de 1000 serviços, em 5 clusters e multicloud, todos estruturados nos conceitos de cloud native, sendo escaláveis, altamente disponíveis e bem componentizados;
+          - Escrevemos mais de 20 RFCs com definições de arquitetura e mais de 800 páginas de documentação técnica de arquitetura de software para apoiar os times no desenvolvimento de aplicações cloud native.
+          - 🏆 Recebi em 2020 o ILP, programa de inventivo a longo prazo, dado a apenas 3% da compania, como destaque do ano pelas entregas e história na empresa.    
+          - Alavanco meus conhecimentos em Prometheus, CertManager, Azure DevOps e tudo relacionado à Cloud native;
+        
+        Projetos paralelos:
+          - React, Node, PostgreSQL e Kubernetes ([MeAjudaFI 🌎](https://meajudafi.com.br/), [financial-tools 🌎]([https://financial-tools.conrado.dev/]), [meajudafi-stack](https://github.com/conradoqg/meajudafi-stack));
+          - Teste de Penetração ([HackTheBox 🌎](https://app.hackthebox.eu/profile/534774), [TryHackMe 🌎](https://tryhackme.com/p/conradoqg));
+          - Estudos aprofundados em Kubernetes e serviços relacionados através de cursos on-line e documentação das ferramentas;
+    - start: 2018-01-01
+      finish: 2019-10-01
       company: TOTVS S.A.
       position: Coordenador de DevOps
       link: https://www.totvs.com.br
-      image: img/totvs.png
+      image: img/totvs-3.png
       description: !markdown |
-        Entrei como estagiário e obtive dois prêmios no trabalho de conclusão do estágio. Continuei na manutenção dos módulos: CRM, Call Center e Gestão de Serviços, durante os 5 primeiros anos e gradativamente conquistei espaço até alcançar a liderança da equipe de inovação desses módulos e posteriormente a coordenação. Desde então, venho repensando, redesenhando e evoluindo nossos softwares com o apoio da equipe. Entre os maiores projetos, estão a criação do módulo de Gestão de Serviços e o redesenho completo do módulo CRM, projetos com mais de 15.000 horas cada um. 
-        
-        Durante a minha carreira passei pelas posições de analista de sistemas, engenheiro de software e gerente de produto, recebendo diversos reconhecimentos, incluíndo **"Você faz a Diferença"**, **"Realize e Mostre"** e **"Destaque de 2018"** com o recebimento de ILP (Investimento de Longo Prazo).
+        No retorno ao Brasil, recebi a oportunidade de coordenar um time de engenheiros de infra-estrutura, desenvolvimento e devops e montar um novo time de SREs, totalizando 11 pessoas.
 
-        Atualmente coordeno a equipe de DevOps da engenharia do produto Protheus e participo de iniciativas de P&D de novos processos, produtos e tecnologias.
+        Conquistas:
+          - Montei processos, ferramentas de apoio ao desenvolvimento e esteiras para os softwares on-premises da TOTVS, trazendo tecnologias como conteiners, orquestração de contêineres, esteiras de CI/CD, infra-estrutura como código, automações e processos de desenvolvimento e observabilidade; 
+          - 🎯 Participei ativamente da transformação do principal software da empresa para um modelo Cloud-Enabled, desde a concepção junto ao time de UX, até a entrega final para aos clientes em produção. Naquele momento, sendo o maior cluster Kubernetes da América Latina na AWS;
+          - 🏆 Recebi em 2019 o ILP, programa de inventivo a longo prazo, dado a apenas 3% da compania, como destaque do ano pelas entregas e história na empresa;
+          - Alavanquei meus conhecimentos em Docker, Docker Swarm, Kubernetes, Jenkins, Gitea, InfluxDB, Grafana, Nginx, Drone, Caddy, Go, cultura DevOps e etc;
+        
+        Projetos paralelos:
+          - Experimentos e uso pessoal de serviços da AWS;
+          - 📖 Aprofundei meu conhecimento em softwares distribuídos, microsserviços e serverless através da leitura de diversos livros;
+          - Docker Stack ([dk-server](https://github.com/conradoqg/dk-server));
+          - Gestão de Artefatos ([arte-server](https://github.com/conradoqg/arte-server), [arte-cli](https://github.com/conradoqg/arte-cli), [goglobls](https://github.com/conradoqg/goglobls));
+          - Firebase, Google Functions, React ([pergunte.app 🔒](https://github.com/conradoqg/pergunte.app))
     - start: 2016-07-01
-      finish: 2017-01-01
-      company: TOTVS Labs CA
-      position: Engenheiro de Software
+      finish: 2018-01-01
+      company: TOTVS Labs
+      position: Especialista de Desenvolvimento Back-end
       link: http://www.totvslabs.com/
       image: img/totvs-labs.jpg
       description: !markdown |
-        Trabalhei como engenheiro de software, e participei de um programa de exploracão na TOTVS Labs CA; lá tive a oportunidade de experimentar novas tecnologias e apoiar o time a estender as funcionalidades de seu produto principal a [Carol](https://www.carol.com/). Criei também novos componentes que irão ajudar a sede em São Paulo - Brasil. Você pode acompanhar meu canal e ver minhas experiências durante esse programa de exploração. https://goo.gl/lClWMs
+        Com o objetivo de atuar mais focado na área técnica, como um engenheiro de software, me mudei para a Califórnia e trabalhei na filial da TOTVS nos EUA. 
+
+        Conquistas:
+          - 🎯 Criei novas funcionalidades no back-end do produto Carol para a integração com os produtos da TOTVS;
+          - Fiz experimentos com tecnologias como blockchain e NLP;
+          - Estudei Data Science, ferramentas e técnicas;
+          - Estudei a filosofia DevOps e apoiei os SREs de perto;
+          - Alavanquei meus conhecimentos em Java, Elasticsearch, Couchbase;
+
+        Projetos paralelos:
+          - Blockchain e criptomoedas ([naivecoin 🥇](https://github.com/conradoqg/naivecoin), [study-dapps](https://github.com/conradoqg/study-dapps), [study-cryptobot 🔒](https://github.com/conradoqg/study-cryptobot));
+          - Aprofundei meu conhecimento em DevOps, Softwares Distribuídos e Microsserviços através da leitura de diversos livros;
+          - Algorítimos ([study-dsa](https://github.com/conradoqg/study-dsa), [smart-organisms](https://github.com/conradoqg/smart-organisms), [HackerRank 🌎](https://www.hackerrank.com/conradoqg));
+          - Data Science ([study-datascience](https://github.com/conradoqg/study-datascience));
+          - Javascript ([snake 🌎](https://rawgit.com/conradoqg/snake/master/index.html), [fastenglish 🌎](https://fastenglish.conradoqg.eti.br/));          
+          - Artigos publicados ([Genetic algorithm, A* and rotated objects](https://medium.com/hackernoon/genetic-algorithm-a-and-rotated-objects-ca19668c780d), [A cryptocurrency implementation in less than 1500 lines of code](https://medium.com/hackernoon/a-cryptocurrency-implementation-in-less-than-1500-lines-of-code-d3812bedb25c), [Beginning machine learning by a software engineer in a hurry](https://medium.com/totvslabs/beginning-machine-learning-by-a-software-engineer-in-a-hurry-ad58412145b8))         
+          - Certificado TOEFL iBT;
+    - start: 2014-07-01
+      finish: 2016-07-01
+      company: TOTVS S.A.
+      position: Coordenador de Produto
+      link: https://www.totvs.com.br
+      image: img/totvs-2.png
+      description: !markdown |
+        Me torno responsável pelos produtos de Faturamento, Call Center, CRM e Jurídico, liderando um time de 24 pessoas e fazendo a gestão do roadmap, backlog, demandas externas, pessoas e projetos.
+
+        Conquistas:
+          - Organizei a resolução de itens de backlog, gerenciei projetos de novas funcionalidades, e fiz reuniões e visitas técnicas recorrentes com clientes e representantes comerciais;
+          - Consolidei minhas habilidades na gestão de pessoas, expectativas e riscos;
+          - Participei recorrentemente de reuniões com clientes e representantes comerciais apoiando a venda e mapeamento das necessidades dos nossos clientes;
+          - Implantei a primeira equipe que utiliza a metodologia ágil na área e começo a evangelizar o conceito dentro da empresa;
+          - 🎯 Executei, junto com o time, benchmarks de softwares de CRM, culminando no redesenho e reestruturação completa do software de CRM da TOTVS. Projeto de um ano e meio com metade do time dedicado nesse desafio;
+          - 🏆 Participei de uma competição com a participação de 20 equipes, com o objetivo de apresentar um projeto que foi idealizado e realizado, ficando em quarto lugar;
+
+        Projetos paralelos:
+          - 📖 Aprofundei meu conhecimento em desenvolvimento ágil através da leitura de diversos livros;
+          - Node.js, Electron ([Don't Lost The Save](https://github.com/conradoqg/dontlostthesave), [csgodash-server 🔒](https://github.com/conradoqg/csgodash-server)), Ember ([iconexplorer 🌎](https://icon.conradoqg.eti.br/)), MongoDB; 
+    - start: 2013-07-01
+      finish: 2014-07-01
+      company: TOTVS S.A.
+      position: Líder de Equipe
+      link: https://www.totvs.com.br
+      image: img/totvs-2.png
+      description: !markdown |
+        Expando a minha atuação no time, atuando como líder de pessoas dos módulos de Faturamento, Call Center e CRM, iniciando com 7 pessoas e finalizando com 15 pessoas.
+
+        Conquistas:
+          - Organizei a resolução de itens de backlog, gerenciei projetos de novas funcionalidades, e fiz reuniões e visitas técnicas recorrentes com clientes e representantes comerciais;
+          - Evolui minhas habilidades na gestão de pessoas, expectativas e riscos;
+          - Comecei a atuar na contratação e montagem de times de desenvolvimento;
+          - Me envolvi mais profundamente com o time de engenharia de software, criando padrões de documentação, processos de levantamento de requisitos, melhorias nos processos de desenvolvimento e otimização na entrega de software;
+          - 🎯 Criei um novo módulo para o produto Protheus chamado Gestão de Serviços, liderando o mapeamento de regras de negócios, arquitetura do software, levantamento de requisitos com clientes, planejamento, benchmark e gestão do projeto;
+
+        Projetos paralelos:
+          - Gestão de Requisitos, através da obtenção de um certificado;          
+    - start: 2012-10-01
+      finish: 2013-07-01
+      company: TOTVS S.A.
+      position: Analista de Sistemas Sênior
+      link: https://www.totvs.com.br
+      image: img/totvs-1.png
+      description: !markdown |
+        Consolido meus conhecimentos das regras de negócio dos softwares da TOTVS e de sua tecnologia proprietária e começo a atuar como um líder técnico/negócio da equipe. 
+
+        Conquistas:
+          - Efetuei manutenções e criei novas funcionalidades de alta complexidade nos softwares de CRM, Call Center e Jurídico do Protheus;
+          - Mapeamento de regras de negócio de alta complexidade;
+          - Apoiei o time de implantação;
+          - Fiz visitas frequentes à clientes, apoiando-os na resolução de problemas e no mapeamento de novas funcionalidades;
+          - 🏆 Recebi o prêmio "Você Faz a Diferença" pelos resultados apresentados no ano anterior;
+          - Intermediação com os times de Framework e Tecnologia em problemas mais complexos;
+          - Atuei pontualmente no time de tecnologia da TOTVS para ajudá-los na evolução de suas ferramentas de desenvolvimento;
+          - 🎯 Participei do projeto TOTVS Up, que teve como objetivo reestruturar todo o processo de contratação dos softwares da TOTVS, desde a contratação até a implementação do software no cliente. Esse projeto teve grande investimento pela empresa e resultou em um registro de patente;                
+          - Crie um framework de testes unitários para a linguagem proprietária da TOTVS (ADVPL Unit Test Framework), que em dois anos se tornaria o padrão de testes unitários da empresa;
+          - Alavanquei meus conhecimentos em frameworks, levantamento de requisitos e processos de engenharia de software;        
+
+        Projetos paralelos:
+          - 📖 Aprofundei meu conhecimento em engenharia de software e processos de desenvolvimento através da leitura de diversos livros;          
+          - C++ ([TinyTrayMonitor 🌎](https://tinytraymonitor.conradoqg.eti.br/))
+    - start: 2011-03-01
+      finish: 2012-10-01
+      company: TOTVS S.A.
+      position: Analista de Sistemas Pleno
+      link: https://www.totvs.com.br
+      image: img/totvs-1.png
+      description: !markdown |
+        Expando minha atuação através da parceria com outros times de negócio, plataforma e implantação, focando em melhorias tecnológicas e estruturais do produto Protheus.
+
+        Conquistas:
+        - Efetuei manutenções e criei novas funcionalidades de alta complexidade nos softwares de CRM, Call Center e Jurídico do Protheus;
+        - Evolui meus conhecimentos em regras de negócio de alta complexidade;
+        - Visitei clientes para mapear novas funcionalidades, apoiar o time de implantação e levantar requisitos de novas funcionalidades;
+        - Fiz troubleshooting de problemas técnicos junto com o time de plataforma do Protheus;
+        - 🏆 Recebi por dois anos consecutivos premiações por inovação no grupo "i9", grupo criado para estimular a concretizar idéias inovadoras dentro da empresa;
+        - Alavanquei meus conhecimentos em banco de dados Oracle, ADVPL-ASP, framework e técnicas de troubleshooting;
+
+        Projetos paralelos:
+          - .NET, Java ([javarpctp 🔒](https://github.com/conradoqg/javarpctp));
+          - 📖 Aprodundei meu conhecimento em componentização, design patterns, engenheira de software e frameworks através da leitura de diversos livros;          
+    - start: 2007-07-01
+      finish: 2011-03-01
+      company: TOTVS S.A.
+      position: Analista de Sistemas Júnior
+      link: https://www.totvs.com.br
+      image: img/totvs-1.png
+      description: !markdown |
+        Evoluo meus conhecimentos ligados às regras de negócio dos softwares da TOTVS e me aproximo do time de atendimento ao cliente.
+        
+        Conquistas:
+        - Efetuei manutenções de média e alta complexidade nos softwares de Varejo, CRM, Call Center do Protheus;
+        - Evolui meus conhecimentos em regras de negócio de baixa e média complexidade;
+        - Criei novas funcionalidades a partir das solicitações de cliente;
+        - Apoiei o time de suporte no entendimento de problemas nas regras de negócio;
+        - 🏆 Fiquei em 2º lugar na competição "BOPS Zero", que teve duração de três meses e aproximadamente 300 envolvidos, com o objetivo de zerar a quantidade de erros do sistema;
+        - Orientei um novo grupo de estagiários da compania em seus projetos de conclusão de estágio;
+        - Alavanquei meus conhecimentos em banco de dados DB2;
+
+        Projetos paralelos:
+          - Estudei Javascript, ExtJS, PHP, MySQL ([iCamps 🔒](https://github.com/conradoqg/icamps)), ([QFinance 🔒](https://github.com/conradoqg/qfinance-app)) e C# ([WorkerTimer 🔒](https://github.com/conradoqg/workertime));          
+          - 📖 Aprofundei meu conhecimento em Knowledge Management através da leitura do livro [The Knowledge Management Toolkit](https://www.amazon.com/Knowledge-Management-Toolkit-Orchestrating-Platforms/dp/013009224X/)
+    - start: 2006-07-01
+      finish: 2007-07-01
+      company: TOTVS S.A.
+      position: Estagiário
+      link: https://www.totvs.com.br
+      image: img/totvs-1.png
+      description: !markdown |
+        Inicio na TOTVS como estagiário executando a manutenção de módulos e participando do projeto de conclusão de estágio.
+
+        Conquistas:
+        - Organizei e controlei os periféricos de hardware utilizados nos testes de desenvolvimento através da criação de um software auxiliar;
+        - Efetuei manutenções de baixa e média complexidade nos softwares de Varejo, CRM e Call Center do produto Protheus, utilizando tecnologias como SQL Server, ADVPL e Windows;
+        - Mapeei regras de negócio de baixa e média complexidade dos módulos de CRM e Call Center do produto Protheus;
+        - 🏆 Conquistei 2 prêmios dos 4 possíveis ("Melhor organização de projeto" e "Melhor apresentação de projeto") entre 7 equipes competidoras e mais de 60 estagiários, através da liderança de uma equipe no projeto de conclusão de estágio;
+        - Alavanquei meus conhecimentos em banco de dados SQL Server, componentização e na linguagem de programação ADVPL;
+
+        Projetos paralelos:
+          - Estudei compiladores (gramática e parsers) através de livros e na implementação de um parser para ADVPL;
+          - Estudei sobre padrões de documentação de código-fonte através da utilização de ferramentas como PHPDoc, JavascriptDoc;
+          - Implementei uma ferramenta de geração de documentação de código-fonte em ADVPL para a ADVPL;
+          - Pratiquei versionamento de arquivos com SVN e Git;
     - start: 2001-01-01
       finish: 2006-06-01
       company: Fastware Sistemas

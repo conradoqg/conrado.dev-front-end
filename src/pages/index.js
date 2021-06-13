@@ -59,7 +59,7 @@ const HTMLString = ({ string }) => {
 
 class Index extends React.Component {
     state = {
-        openned: false
+        openned: true
     }
     handleNext = open => () => {
         this.setState({ openned: open });
@@ -209,7 +209,7 @@ class Index extends React.Component {
                                                 </Typography>
                                             </Grid>
                                         </Hidden>
-                                        <Grid item style={{ maxWidth: "320px", width: "100%" }}>
+                                        <Grid item style={{ maxWidth: "220px", width: "100%" }}>
                                             <Img
                                                 fluid={experience.image.childImageSharp.fluid} />
                                         </Grid>
@@ -219,7 +219,7 @@ class Index extends React.Component {
                                             </Typography>
                                         </Grid>
                                         <Grid item xs>
-                                            <Typography variant="body1" style={{ paddingTop: "10px" }} component="div">
+                                            <Typography variant="body2" component="div">
                                                 <HTMLString string={experience.description} />
                                             </Typography>
                                             <Divider />
