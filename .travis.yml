@@ -1,9 +1,10 @@
 language: node_js
 
 node_js:
-  - "node"
+  - 12
 
 script:  
+  - apt-get update && apt-get install -y libglu1
   - npm install
   - npm run build
   - ls public/ -lh  
