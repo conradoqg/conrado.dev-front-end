@@ -2,22 +2,22 @@
   "name": "conrado.dev-front-end",
   "version": "1.0.0",
   "dependencies": {
-    "@material-ui/core": "latest",
+    "@material-ui/core": "4.1.1",
     "@material-ui/icons": "^4.2.1",
     "gatsby": "2.8.6",
     "gatsby-image": "^2.2.1",
     "gatsby-plugin-intl": "^0.2.4",
-    "gatsby-plugin-material-ui": "latest",
-    "gatsby-plugin-react-helmet": "latest",
+    "gatsby-plugin-material-ui": "2.0.1",
+    "gatsby-plugin-react-helmet": "3.1.0",
     "gatsby-plugin-sharp": "^2.2.1",
     "gatsby-source-filesystem": "^2.1.0",
     "gatsby-transformer-sharp": "^2.2.0",
     "gatsby-transformer-yaml-full": "^0.1.0",
     "gatsby-yaml-full-markdown": "^0.1.0",
     "mdi-material-ui": "^6.1.0",
-    "react": "latest",
-    "react-dom": "latest",
-    "react-helmet": "latest"
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-helmet": "5.2.1"
   },
   "scripts": {
     "develop": "gatsby develop",
